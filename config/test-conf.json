@@ -1,0 +1,8 @@
+{
+  "PathToBuffer":   "/testPath",
+  "ParseLimit":     50,
+  "AuthHeader":     "test-header",
+  "SaveToDb":       true,
+  "GraphicsPath":   "/testPath",
+  "GraphVpnSave":   false
+}

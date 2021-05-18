@@ -2,16 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/tkanos/gonfig"
-	"github.com/wizard7414/epos_v2/domain"
+	"github.com/wizard7414/epos_v2/utils"
 	"strconv"
 )
 
 func main() {
-	configuration := domain.EposConfig{}
-	err := gonfig.GetConf("config/deviant-conf.json", &configuration)
-	if err != nil {
-		panic(err)
-	}
+	configuration := utils.GetConfig("config/deviant-conf.json")
+
 	fmt.Println(strconv.Itoa(configuration.ParseLimit))
 }

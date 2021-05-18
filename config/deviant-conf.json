@@ -1,8 +1,8 @@
 {
-  "PathToBuffer":   "",
+  "PathToBuffer":   "/home/wizard/Документы/wlop.txt",
   "ParseLimit":     500,
   "AuthHeader":     "",
   "SaveToDb":       true,
-  "GraphicsPath":   "",
+  "GraphicsPath":   "/home/wizard/yDisk/#Epos/Artist/W/wlop/",
   "GraphVpnSave":   false
 }
