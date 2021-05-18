@@ -2,7 +2,8 @@
   "PathToBuffer":   "/home/wizard/Документы/wlop.txt",
   "ParseLimit":     500,
   "AuthHeader":     "",
-  "SaveToDb":       true,
+  "DbMinerPath":    "/home/wizard/yDisk/#Epos/Miner/epos-miner-f.db",
+  "DbGeneralPath":  "/home/wizard/yDisk/#Epos/Miner/epos-general.db",
   "GraphicsPath":   "/home/wizard/yDisk/#Epos/Artist/W/wlop/",
   "GraphVpnSave":   false
 }

@@ -2,7 +2,8 @@
   "PathToBuffer":   "/testPath",
   "ParseLimit":     50,
   "AuthHeader":     "test-header",
-  "SaveToDb":       true,
+  "DbMinerPath":    "/testDbPath",
+  "DbGeneralPath":  "/testDbPath",
   "GraphicsPath":   "/testPath",
   "GraphVpnSave":   false
 }
