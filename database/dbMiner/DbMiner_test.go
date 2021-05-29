@@ -1,4 +1,4 @@
-package miner
+package dbMiner
 
 import (
 	"github.com/wizard7414/epos_v2/domain/miner"
@@ -20,7 +20,7 @@ var base = DbMiner{
 }
 
 func TestMain(m *testing.M) {
-	err := base.InitDb("../resource/epos-miner.db")
+	err := base.InitDb("../resource/epos-dbMiner.db")
 	if err != nil {
 		panic("Unable to start test set!")
 	}

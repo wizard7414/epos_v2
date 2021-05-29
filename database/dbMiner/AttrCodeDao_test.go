@@ -1,4 +1,4 @@
-package miner
+package dbMiner
 
 import (
 	"github.com/wizard7414/epos_v2/domain/miner"

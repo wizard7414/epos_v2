@@ -1,4 +1,4 @@
-package miner
+package dbMiner
 
 import (
 	"github.com/jinzhu/gorm"

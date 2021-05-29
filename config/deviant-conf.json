@@ -1,9 +1,9 @@
 {
-  "PathToBuffer":   "/home/wizard/Документы/wlop.txt",
+  "PathToBuffer":   "/home/wizard/Документы/7th--Heaven.txt",
   "ParseLimit":     500,
-  "AuthHeader":     "",
+  "AuthHeader":     "userinfo=__4ea5504a27c53325525a%3B%7B%22username%22%3A%22eposWizars%22%2C%22uniqueid%22%3A%222623d6e0511e7c7f59692599b57a7f25%22%2C%22dvs9-1%22%3A1%2C%22ab%22%3A%22tao-dw1-1-b-4%7Ctao-nc1-1-b-5%7Ctao-rd2-1-b-6%22%2C%22pv%22%3A%22c%3D1%2C1%2C1%2C1%22%7D; vd=__02c9e293124c70c2a806%3B%22BghlCo%2CBgsph9%2CA%2CH%2CA%2C%2CB%2CA%2CB%2CBgsph9%2CBgspiU%2CA%2CA%2CA%2CA%2C13%2CA%2CB%2CA%2CA%2CA%2CA%2CB%2CA%2CA%2C%22; _ga=GA1.2.1014774415.1619415212; __qca=P0-180202165-1621196651733; td=3:1056%3B6:1280x282%3B7:1684%3B10:1056%3B11:536%3B12:1848x550%3B20:1692; _gid=GA1.2.1876451509.1622317183; _gat=1; auth=__f51029630a0060572861%3B%22229ff6adbafddc676f2d6296fb6c44a3%22; auth_secure=__df1e677eb37ed7787faa%3B%22f05e132bc4ee8113c42e758f464f46f1%22",
   "DbMinerPath":    "/home/wizard/yDisk/#Epos/Miner/epos-miner-f.db",
   "DbGeneralPath":  "/home/wizard/yDisk/#Epos/Miner/epos-general.db",
-  "GraphicsPath":   "/home/wizard/yDisk/#Epos/Artist/W/wlop/",
+  "GraphicsPath":   "/home/wizard/yDisk/#Epos/Artist/7/7th--Heaven/",
   "GraphVpnSave":   false
 }
